@@ -2,5 +2,13 @@
   {
     "action": "talk",
     "text": "Hello, is it me your looking for."
+  },
+  {
+    "action": "talk",
+    "text": "Welcome to jonnys Nexmo Conference Call."
+  },
+  {
+    "action": "conversation",
+    "name": "jonny-conference-99"
   }
 ]
