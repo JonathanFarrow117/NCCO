@@ -1,13 +1,13 @@
 [
   {
     "action": "talk",
-    "text": "Hello, is it me your looking for."
+    "text": "Hello, is it me your looking for.",
     "voiceName": "Russell"
 
   },
   {
     "action": "talk",
-    "text": "Welcome to jonnys Nexmo Conference Call."
+    "text": "Welcome to jonnys Nexmo Conference Call.",
     "voiceName": "Russell"
   },
   {
