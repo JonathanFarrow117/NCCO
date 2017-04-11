@@ -4,13 +4,4 @@
     "text": "Hello, is it me your looking for."
     "voiceName": "Eric"
   },
-  {
-    "action": "talk",
-    "text": "Welcome to jonnys Nexmo Conference Call."
-    "voiceName": "Eric"
-  },
-  {
-    "action": "conversation",
-    "name": "jonny-conference-99"
-  }
 ]
