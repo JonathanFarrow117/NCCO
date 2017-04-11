@@ -7,7 +7,6 @@
   {
     "action": "talk",
     "text": "Welcome to jonnys Nexmo Conference Call."
-    "voiceName": "Eric"
   },
   {
     "action": "conversation",
