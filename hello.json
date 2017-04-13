@@ -1,26 +1,10 @@
 [
   {
     "action": "talk",
-    "text": "bonjour",
+    "text": "hello this is my test call",
     "voiceName": "Gwyneth"
 
   },
-  {
-    "action": "connect",
-    "eventUrl": "www.example.com/event",
-    "endpoint":[
-      {
-        "type:"websocket",
-        "uri: 
-        "content-type":
-        "headers": {
-        "iam_Key":
-        "iam_secret:
-       
-      
-      
-      }
-        
-  },
-  
+ 
+
 ]
