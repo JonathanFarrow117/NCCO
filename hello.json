@@ -6,12 +6,21 @@
 
   },
   {
-    "action": "talk",
-    "text": "Welcome to jonnys Nexmo Conference Call.",
-    "voiceName": "Brian"
+    "action": "connect",
+    "eventUrl": "www.example.com/event",
+    "endpoint":[
+      {
+        "type:"websocket",
+        "uri: 
+        "content-type":
+        "headers": {
+        "iam_Key":
+        "iam_secret:
+       
+      
+      
+      }
+        
   },
-  {
-    "action": "conversation",
-    "name": "jonny-conference-99"
-  }
+  
 ]
