@@ -1,7 +1,7 @@
 [
   { 
   "action": "talk",
-  "text":"Mary had a little  <break time="3s"/> lamb Whose fleece was white as snow."
+  "text":"<speak>Mary had a little lamb <break time="3s"/>Whose fleece was white as snow.</speak>"
   
   },
   {
