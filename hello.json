@@ -1,7 +1,7 @@
 [
   { 
   "action": "talk",
-  "text": "<speak> Hello, it's me I was <prosody volume="x-loud"> wondering if after all </prosody> these years <prosody pitch="+5%"> you'd like to meet To go over </prosody>  everything They say that time's supposed to heal ya But I ain't done much healing Hello, can you hear me? I'm in California dreaming </speak>",
+  "text":<speak> Mary had a little lamb <break time="3s"/>Whose fleece was white as snow.</speak>,
     
   "voiceName": "Justin"
   },
