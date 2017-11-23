@@ -1,7 +1,8 @@
 [
     {
         "action": "talk", 
-        "text": "<speak>Begin Countdown, <say-as interpret-as='digits'>54321</say-as>Boom</speak>"
+        "text": "<speak>Begin Countdown, </prosody><say-as interpret-as='digits'>54321</say-as><prosody rate='x-slow'>Boom</speak>"
+       
     }
 ]
 
