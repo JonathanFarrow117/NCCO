@@ -1,7 +1,7 @@
 [
     {
         "action": "talk", 
-        "text": "<speak>Begin Countdown, <prosody rate='x-slow'>5 4 3 2 1</prosody> one more time at normal speed 5 4 3 2 1 </speak>"
+        "text": "<speak>Begin Countdown, <prosody rate='x-slow'><s>5</s> <s>4</s> <s>3</s> <s>2</s> <s>1</s></prosody> one more time at normal speed 5 4 3 2 1 </speak>"
        
     }
 ]
