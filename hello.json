@@ -1,7 +1,8 @@
 [
     {
         "action": "talk", 
-        "text": "<speak>Begin Countdown, <prosody rate='x-slow'><s>5</s> <s>4</s> <s>3</s> <s>2</s> <s>1</s></prosody> one more time at normal speed 5 4 3 2 1 </speak>"
+        "voiceName":"Seoyeon",
+        "text": "고등어 ₩1000원 꽁치 $20 삼치 €13"
        
     }
 ]
